@@ -3,4 +3,4 @@
  *
  * Initialize things.
  */
-var app = angular.module('app', []);
+var app = angular.module('app', ['angular-loading-bar']);
